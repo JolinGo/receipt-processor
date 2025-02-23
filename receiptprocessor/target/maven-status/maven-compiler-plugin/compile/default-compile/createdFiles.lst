@@ -1,0 +1,6 @@
+com/example/receiptprocessor/ReceiptController.class
+com/example/receiptprocessor/Receipt.class
+com/example/receiptprocessor/ReceiptNotFoundException.class
+com/example/receiptprocessor/ReceiptprocessorApplication.class
+com/example/receiptprocessor/GlobalExceptionHandler.class
+com/example/receiptprocessor/Item.class
