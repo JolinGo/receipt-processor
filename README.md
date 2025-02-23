@@ -42,6 +42,6 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 ### Get Points
 - **Path:** `/receipts/{id}/points`
 - **Method:** `GET`
-- **Response:** A JSON object containing the number of points awarded.\
+- **Response:** A JSON object containing the number of points awarded.
 - **Example Response:**
 { "points": 32 }
